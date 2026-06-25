@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Escape",
+  "description": "An exciting puzzle game where you slide arrows out of intricate shapes and patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
